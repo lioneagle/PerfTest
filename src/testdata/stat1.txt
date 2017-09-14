@@ -1,0 +1,4 @@
+4104.56      task-clock:HG   # asada
+12,4104,056  cycles:HG   # asada
+
+12.456 seconds time elapsed

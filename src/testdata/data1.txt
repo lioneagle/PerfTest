@@ -1,0 +1,9 @@
+#
+# Samples: 3K of event 'cycles' 
+#
+#
+   97.70%    0.00%  sipserver64  sipserver64  [.] runtime.goexit
+        ----
+   97.70%    0.00%  sipserver64  sipserver64  [.] runtime.main
+        ----
+   97.68%    0.20%  sipserver64  sipserver64  [.] main.main
